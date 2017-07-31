@@ -1,0 +1,9 @@
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\bin\Debug\netcoreapp1.1\SmartShopperApplication.deps.json
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\bin\Debug\netcoreapp1.1\SmartShopperApplication.runtimeconfig.json
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\bin\Debug\netcoreapp1.1\SmartShopperApplication.runtimeconfig.dev.json
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\bin\Debug\netcoreapp1.1\SmartShopperApplication.dll
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\bin\Debug\netcoreapp1.1\SmartShopperApplication.pdb
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\obj\Debug\netcoreapp1.1\SmartShopperApplication.csprojResolveAssemblyReference.cache
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\obj\Debug\netcoreapp1.1\SmartShopperApplication.AssemblyInfo.cs
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\obj\Debug\netcoreapp1.1\SmartShopperApplication.dll
+c:\users\v-camokg\documents\visual studio 2017\Projects\SmartShopperApplication\SmartShopperApplication\obj\Debug\netcoreapp1.1\SmartShopperApplication.pdb
